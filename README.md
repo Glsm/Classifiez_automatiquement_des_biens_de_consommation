@@ -1,4 +1,4 @@
-![image](https://github.com/Glsm/Classifiez_automatiquement_des_biens_de_consommation/assets/9404053/e380a8d3-3c4f-4926-bc21-ba409a22e40c)# Classifiez automatiquement des biens de consommation
+# Classifiez automatiquement des biens de consommation
 
 ## Projet6-Openclassrooms
 &nbsp;
