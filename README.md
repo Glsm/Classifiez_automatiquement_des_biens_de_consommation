@@ -8,7 +8,7 @@
 
 ## Description de projet!
 
-"Place de marché”, qui souhaite lancer une marketplace e-commerce.
+Place de marché souhaite lancer une marketplace e-commerce.
 Sur la place de marché, des vendeurs proposent des articles à des acheteurs en postant une photo et une description.
 Pour l'instant, l'attribution de la catégorie d'un article est effectuée manuellement par les vendeurs, et est donc peu fiable. De plus, le volume des articles est pour l’instant très petit.
 
